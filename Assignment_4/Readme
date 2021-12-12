@@ -1,0 +1,8 @@
+Image and Video Processing Assignment No. 4
+Name : Ajinkya Waghulikar
+Neptun Code : FGRQTC
+
+
+4. Motion tracking of feature points and dense optical flow
+Input: 1. short video sequence; 2. maximum displacement.
+Output: 1. points tracked in the video sequence (for both test sequences); 2. optical flow of the sequence (for motor sequence only).
